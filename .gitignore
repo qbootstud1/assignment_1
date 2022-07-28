@@ -65,6 +65,12 @@ db.sqlite3-journal
 instance/
 .webassets-cache
 
+# idea
+.idea/
+
+# Env folder
+assign:env/
+
 # Scrapy stuff:
 .scrapy
 
